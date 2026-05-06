@@ -153,5 +153,5 @@ This tool is designed for educational purposes, network diagnostics, and legitim
 ---
 
 <div align="center">
-<i>Built with 💻 for high-performance network analysis.</i>
+<i>Built by Skanda M Rao for high-performance network analysis.</i>
 </div>
