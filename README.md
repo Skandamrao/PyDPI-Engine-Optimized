@@ -137,6 +137,21 @@ The engine can natively identify and block the following applications via SNI/Ho
 
 ---
 
+## 🗺️ Roadmap
+
+- [ ] **IPv6 Support:** Full parsing and rule matching for IPv6 addresses.
+- [ ] **Extended L7 Parsers:** Add extraction for additional protocols like SMTP, FTP, and deeper QUIC inspection.
+- [ ] **Regex Rule Matching:** Allow complex regex-based rules for domains and SNIs.
+- [ ] **Multiprocessing Support:** Bypass the Global Interpreter Lock (GIL) by porting the Fast Path workers from threads to separate processes for true parallel execution on multi-core CPUs.
+
+---
+
+## ⚠️ Disclaimer
+
+This tool is designed for educational purposes, network diagnostics, and legitimate traffic management. Please ensure you have explicit permission to capture and inspect network traffic on any network where this software is deployed.
+
+---
+
 <div align="center">
 <i>Built with 💻 for high-performance network analysis.</i>
 </div>
